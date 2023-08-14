@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+
+.vertical_head{
+  writing-mode: vertical-lr;
+  display: inline;
+  word-spacing: 1.2px;
+  letter-spacing: 0.5px;
+  transform: rotate(180deg);
+}
